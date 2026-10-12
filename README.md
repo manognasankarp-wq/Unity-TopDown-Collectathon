@@ -7,6 +7,10 @@ A 2D top-down collectathon game developed using Unity.
 This project is a top-down 2D game created while learning Unity.
 The player explores the environment and collects objects.
 
+## Gameplay Screenshots
+
+![Top-Down 2D Collectathon Gameplay](Screenshots/game-screenshot4.png)
+
 ## Features
 
 - Top-down 2D gameplay
