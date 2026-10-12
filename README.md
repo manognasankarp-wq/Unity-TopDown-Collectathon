@@ -10,6 +10,7 @@ The player explores the environment and collects objects.
 ## Gameplay Screenshots
 
 ![Top-Down 2D Collectathon Gameplay](Screenshots/game-screenshot4.png)
+![Top-Down 2D Collectathon Gameplay](Screenshots/game-screenshot1.png)
 
 ## Features
 
